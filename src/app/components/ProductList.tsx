@@ -4,7 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import DOMPurify from "isomorphic-dompurify";
 import Pagination from "./Pagination";
-import { skip } from "node:test";
+
 
 const productPerPage = 8;
 

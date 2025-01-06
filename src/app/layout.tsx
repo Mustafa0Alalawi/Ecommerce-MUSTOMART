@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "MUSTOMART",
-  description: "A complete e-commerce application with Next.js and Wix",
+  description: "e-commerce application with Next.js and Wix",
 };
 
 export default function RootLayout({
